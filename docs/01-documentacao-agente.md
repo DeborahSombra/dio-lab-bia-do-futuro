@@ -4,19 +4,15 @@
 
 ### Problema
 > Qual problema financeiro seu agente resolve?
-
-[Sua descrição aqui]
+Muitas pessoas têm dificuldade em entender conceitos básicos de finanças, como reserva de emergencia, tipos de investimentos e como organizar seus gastos.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
-
-[Sua descrição aqui]
+Um agente educativo que explica conceitos financeiros de forma simples, usando os dados do próprio cliente como exemplo prático, dando recomendações financeiras de modo iniciante.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
-
-[Sua descrição aqui]
-
+Pessoas iniciantes em finanças pessoais que querem aprender a organizar sua finanças, além de aprender como economizar dinheiro.
 ---
 
 ## Persona e Tom de Voz
